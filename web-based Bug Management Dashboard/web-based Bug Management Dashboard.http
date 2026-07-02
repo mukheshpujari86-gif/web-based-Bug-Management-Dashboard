@@ -1,0 +1,6 @@
+@web_based_Bug_Management_Dashboard_HostAddress = http://localhost:5257
+
+GET {{web_based_Bug_Management_Dashboard_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
